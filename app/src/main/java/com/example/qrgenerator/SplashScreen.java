@@ -24,6 +24,6 @@ public class SplashScreen extends AppCompatActivity {
                 startActivity(i);
                 finish();
             }
-        },2000);//time of delay is ms. (4sec).
+        },2000);//time of delay is ms. (2sec).
     }
 }
